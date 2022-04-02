@@ -16,3 +16,5 @@ This can be done via terminal:
 nc -lvp 5555
 ```
 And then update the ip address and run the compiled code on the remote machine in order to receive the information. 
+
+Disclaimer: This application has been made for educational purposes only, I don’t promote malicious practices and will not be responsible for any illegal activities. Use it at your own risk.
